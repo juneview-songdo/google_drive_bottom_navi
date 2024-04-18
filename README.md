@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/google_drive_bottom_navi/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/google_drive_bottom_navi/assets/21379657/6dcbe2cb-4dc4-46a3-87e9-204c65dfa23d)
 
